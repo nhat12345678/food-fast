@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
+}
+.section-one{
+    background: #000; height: 40px;
+}
+.section-one .section-one-second{
+    border: 3px solid black; border-radius: 7px 7px 7px; width: 650px;height: 500px;
+}
+.section-one>a{
+    color: white; font-size: 30px; font-family: sans-serif inherit; text-decoration: none;
+}
+.section-one .section-one-second>h1{
+    text-align: center;
+}
+.section-one .section-one-second>img{
+    height: 200px; width: 400px; padding-left: 20%;
+}
+.section-one .section-one-second .section-one-second-final{
+    padding-left: 40%; border: 3px solid black; border-radius: 7px 7px 7px 7px; width: 384px;height: 180px; background: white;
+}
+.section-one .section-one-second .section-one-second-final>ol>li>a{
+    text-decoration: none; color: black;
+}
+a>img{
+    height: 80px; width: 80px; border-radius: 20px; 
+}
